@@ -10,4 +10,4 @@ oftether vpn server
  ```log
 rm -rf /root/install_softether_server.sh && wget -P /root/ https://ghfast.top/https://raw.githubusercontent.com/fenger1210/Script-library/main/install_softether_server.sh && chmod 777 /root/install_softether_server.sh && bash /root/install_softether_server.sh
 
-``
+```
