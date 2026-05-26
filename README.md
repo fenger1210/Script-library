@@ -2,5 +2,6 @@
 宝塔面板 
 Ubuntu/Debian
 ```log
-wget -O install.sh https://install.baota.sbs/install/install_6.0.sh && bash install.sh
+wget -O install.sh https://ghfast.top/https://raw.githubusercontent.com/fenger1210/Script-library/main/install_6.0.sh && bash install.sh
+
 ```
